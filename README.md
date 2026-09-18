@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Developer | Open Source <br>Enthusiast Building scalable applications. <br>Backend • Frontend • DevOps Clean code. <br>Meaningful products. Always learning.<br>
+Software Developer | Open Source <br>Enthusiast Building scalable applications. <br>Backend • Frontend • Full Stack. <br>Meaningful products. Always learning.<br>
 
 
 ## 🌐 Socials:
